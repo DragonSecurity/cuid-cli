@@ -1,0 +1,15 @@
+{
+  "name": "@dragonsecurity/cuid-cli",
+  "version": "1.0.0",
+  "exports": "./cli.js",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "cuid": "./cli.js"
+  },
+  "dependencies": {
+    "cuid": "^3.0.0",
+    "get-stdin": "^9.0.0",
+    "meow": "^13.2.0"
+  }
+}
