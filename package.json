@@ -10,6 +10,6 @@
   "dependencies": {
     "cuid": "^3.0.0",
     "get-stdin": "^9.0.0",
-    "meow": "^13.2.0"
+    "meow": "^14.0.0"
   }
 }
